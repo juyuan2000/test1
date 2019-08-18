@@ -1,6 +1,0 @@
-com\djs\dto\ResponseResult.class
-com\djs\entity\User.class
-com\djs\service\impl\UserServiceImpl.class
-com\djs\controllers\UserController.class
-com\djs\service\IUserService.class
-com\djs\mapper\IUserMapper.class
